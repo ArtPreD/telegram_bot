@@ -22,7 +22,7 @@ import java.util.List;
 public class Bot extends TelegramLongPollingBot {
 
     private static final String USERNAME = "Merayas_bot";
-    private static final String TOKEN = "611672822:AAHLkFEV6-rTWW3-T7y6lZFgnEQc-m2wsV8";
+    private static final String TOKEN = ***********;
 
     private GameController gameController;
     private ControllerCallback controllerCallback;
